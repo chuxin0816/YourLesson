@@ -14,10 +14,10 @@
 user_id = "2022150091"
 
 # cookie = ""
-cookie = "_WEU=qggsnUO1E7TZLQE4IGPyofwDF7aAx9XKcCtNm35LMCBqyAFzzc_Q6HYMmB78hrjx; JSESSIONID=266BC0ABBF5B3A161870DFFE521FFC2D; route=2e7b4a35a31c5a6d82a1048539c55f40; insert_cookie=22322123"
-electiveBatchCode = "3e05cb5370a2428f991fa902fe078b66"
+cookie = "_WEU=eVtfSTrihz255EWRzdErf2OqLcGiDFLHDfnKwj9T*F_6ZMJfM9Y5_7DtxdF_SBU0; JSESSIONID=E1128311E8A65A574715BE846D4D8757; platformMultilingual=en; route=929c44977fe9c49dcbe411e5927d264e; insert_cookie=42504548; _webvpn_key=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjoiMjAyMjE1MDA5MSIsImdyb3VwcyI6WzNdLCJpYXQiOjE3NDAyODk5MDQsImV4cCI6MTc0MDM3NjMwNH0.0RKx9PCdG5IWFhJzNCbXHq08R-k1X13yqxC7nItLSzo; webvpn_username=2022150091%7C1740289904%7Ce5e782f912f01f86444365b3f6c46ae999c7ba51"
+electiveBatchCode = "f8f572bdf2454990bf7d0524b7774d4a"
 
-token = "63824583-6d06-4528-8c16-4cf3bda64226"
+token = "56b09417-6898-4d44-b341-f048d9b7d81f"
 
 # 本班课程： 'TJKC'
 # 方案内课程: 'FANKC'
@@ -32,8 +32,8 @@ courses = [
     # {'id': '202420251150289000101', 'type': 'TJKC', 'name': "微处理器与机器人"},
     # {'id': '202420251150280000101', 'type': 'TJKC', 'name': "自动机与形式语言"},
     # {'id': '202420251150280000101', 'type': 'FANKC', 'name': "自动机与形式语言"},
-    {'id': '202420251150329000101', 'type': 'FANKC', 'name': "智能识别系统设计"},
-    {'id': '202420251150465000101', 'type': 'FANKC', 'name': "计算机视觉"},
+    {'id': '202420252150294000101', 'type': 'FANKC', 'name': "信息检索"},
+    {'id': '202420252150328000101', 'type': 'FANKC', 'name': "网络安全"},
 ]
 
 # 抢课的间隔，单位是毫秒
